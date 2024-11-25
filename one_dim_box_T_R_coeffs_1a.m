@@ -1,4 +1,4 @@
-% This matlab code solves the transmission coefficient (coeff) T and and reflection coefficient R for one dimensional (dim) potential shown below
+% This matlab code solves the transmission coefficient (coeff) T and and reflection coefficient R for one dimensional (dim) potential barrier shown below
 % using a matching boundary conditions.  
 %
 %  Reference: R. L. Liboff, Introductory Quantum Mechanics, Addison-Wesley Publishing Company, New York (1080)  
